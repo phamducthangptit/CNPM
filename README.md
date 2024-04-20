@@ -16,6 +16,6 @@ sai lệch dữ liệu, lúc tìm kiếm lại điểm khó khăn và không th�
 ![App Screenshot](https://github.com/phamducthangptit/CNPM/assets/84903801/40a55d06-b7b9-416f-9813-a8b58a6fb311)
 
 ## 4. Video Demo
-
+https://youtu.be/P51MtaAKyn8
 
 
